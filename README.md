@@ -28,6 +28,10 @@ Getting Started
    http://localhost:5000/add-sample-question
    ```
 
+5.View the Website on :
+   ```
+   http://localhost:5000/
+   ```
 API Documentation
 
 API documentation is available at:
